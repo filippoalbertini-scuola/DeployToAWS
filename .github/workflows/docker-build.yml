@@ -8,7 +8,7 @@ on:
 
 env:
   DOCKERHUB_USERNAME: filippoalbertini # Replace with your Docker Hub username
-  IMAGE_NAME: DeplotToAWS                 # Replace with your desired image name
+  IMAGE_NAME: DeployToAWS                 # Replace with your desired image name
 
 jobs:
   build-and-push-image:
